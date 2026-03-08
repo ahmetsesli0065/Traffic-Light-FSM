@@ -1,0 +1,1 @@
+C:/altera_lite/25.1std/questa_fse/win64/VisualizerRls/bin/viscom.exe -nolock -quiet -jmem_size 934320 work.tb_traffic_light_fsm -quiet -auto_acc_if_foreign -work work +acc -allow_unnamed -o _opt1 -id 1-cc5ef87c90cd-69ad84df-210-2718 +__betafsm

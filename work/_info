@@ -1,0 +1,100 @@
+m255
+K4
+z2
+Z0 !s12c _opt1
+Z1 !s99 nomlopt
+R0
+R1
+!s12c _opt
+R1
+!s11f vlog 2025.2 2025.05, May 31 2025
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 dC:/Users/LENOVO/AppData/Local/quartus
+T_opt
+!i145 1
+!i144 0
+!s110 1772977588
+VJ=DRL1`KVcU2GgDZgiUJG3
+Z3 04 20 4 work tb_traffic_light_fsm fast 0
+=1-cc5ef87c90cd-69ad7db2-34a-17a8
+R1
+Z4 !s12f OEM100
+Z5 !s12b OEM100
+Z6 !s124 OEM10U2 
+Z7 !s135 nogc
+o-quiet -auto_acc_if_foreign -work work
+Z8 tCvgOpt 0 defaultOptions 1107585188
+n@_opt
+Z9 OL;O;2025.2;82
+R2
+T_opt1
+!i145 1
+!i144 0
+!s110 1772979424
+V^13McleRY>7Sj1F;d8iXe3
+R3
+=1-cc5ef87c90cd-69ad84df-210-2718
+R1
+R4
+R5
+R6
+R7
+o-quiet -auto_acc_if_foreign -work work +acc
+R8
+n@_opt1
+R9
+vtb_traffic_light_fsm
+2C:/Users/LENOVO/Desktop/fpga/Traffic-Light-FSM/tb_traffic_light_fsm.sv
+Z10 DXx6 sv_std 3 std 0 22 @5XbY]_OacJl=`ToSm<M^0
+Z11 !s110 1772979410
+!i10b 1
+!s100 NS@hHoSWWJbGX1z[8d?X>0
+I>g=C52Lm;PiCHR@E6TEVk2
+S1
+Z12 dC:/Users/LENOVO/Desktop/fpga/Traffic-Light-FSM
+w1772977335
+8C:/Users/LENOVO/Desktop/fpga/Traffic-Light-FSM/tb_traffic_light_fsm.sv
+FC:/Users/LENOVO/Desktop/fpga/Traffic-Light-FSM/tb_traffic_light_fsm.sv
+!i122 7
+L0 3 30
+Z13 VDg1SIo80bB@j0V0VzS_@n1
+Z14 OL;L;2025.2;82
+r1
+!s85 0
+31
+Z15 !s108 1772979410.000000
+!s107 C:/Users/LENOVO/Desktop/fpga/Traffic-Light-FSM/tb_traffic_light_fsm.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/LENOVO/Desktop/fpga/Traffic-Light-FSM/tb_traffic_light_fsm.sv|
+!i113 0
+Z16 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z17 tCvgOpt 0 defaultOptions 1085333592
+vtraffic_light_fsm
+2C:/Users/LENOVO/Desktop/fpga/Traffic-Light-FSM/traffic_light_fsm.sv
+R10
+R11
+!i10b 1
+!s100 OHdYz7[U:JkNLDH2FZT2^1
+I]ElbKPLi3K`DlBX1[MenS1
+S1
+R12
+w1772979406
+8C:/Users/LENOVO/Desktop/fpga/Traffic-Light-FSM/traffic_light_fsm.sv
+FC:/Users/LENOVO/Desktop/fpga/Traffic-Light-FSM/traffic_light_fsm.sv
+!i122 6
+L0 1 54
+R13
+R14
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/LENOVO/Desktop/fpga/Traffic-Light-FSM/traffic_light_fsm.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/LENOVO/Desktop/fpga/Traffic-Light-FSM/traffic_light_fsm.sv|
+!i113 0
+R16
+R17
